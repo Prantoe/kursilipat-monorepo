@@ -2,11 +2,6 @@
 
 A monorepo boilerplate using Nuxt and Payload.
 
-## Why?
-
-I was interested in using Payload as the CMS for a website project with Nuxt, but there were no good examples on how to setup a project with that specific tech stack.
-I found [a pretty nice template](https://github.com/slavanossar/nuxt3-payload-template), but I specifically wanted to use a monorepo setup.
-
 ## Tech stack
 
 - <a href="https://turbo.build/repo" target="_blank">Turborepo</a>  
