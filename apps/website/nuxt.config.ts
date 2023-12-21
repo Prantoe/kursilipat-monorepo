@@ -3,7 +3,7 @@ export default defineNuxtConfig({
 	modules: ['@vueuse/nuxt', '@nuxt/devtools'],
 	runtimeConfig: {
 		public: {
-			cmsUrl: 'http://localhost:3000'
+			cmsUrl: 'http://localhost:3001'
 		}
 	}
 })

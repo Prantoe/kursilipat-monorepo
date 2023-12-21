@@ -9,7 +9,7 @@ import Posts from './collections/Posts';
 import Pages from './collections/Pages';
 
 export default buildConfig({
-  serverURL: 'http://localhost:3000',
+  serverURL: 'http://localhost:3001',
   admin: {
     user: Users.slug,
   },
